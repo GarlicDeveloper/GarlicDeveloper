@@ -14,8 +14,6 @@ Hi there! I'm **Vikrant Talbhoge**, a passionate developer, AI enthusiast, and c
  <img src="https://img.shields.io/badge/File%20Handling-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Exception%20Handling-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Multithreading-FFB000?style=for-the-badge&logo=python&logoColor=black" /> 
- <img src="https://img.shields.io/badge/Decorators-646464?style=for-the-badge&logo=python&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Generators-306998?style=for-the-badge&logo=python&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Virtual%20Environments-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 

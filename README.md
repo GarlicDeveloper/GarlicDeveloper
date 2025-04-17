@@ -10,7 +10,13 @@ Hi there! I'm **Vikrant Talbhoge**, a passionate developer, AI enthusiast, and c
  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
-
+### 📊 Data Visualization
+<p align="left"> 
+ <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge&logo=python&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> </p>
 ### ☁️ Cloud & DevOps 
 <p align="left">
  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />

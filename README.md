@@ -63,5 +63,5 @@ Hi there! I'm **Vikrant Talbhoge**, a passionate developer, AI enthusiast, and c
 </p>
 
 ### LinkedIn
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vikrant-talbhoge-7b66a1291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vikrant-talbhoge-7b66a1291?trk=profile-badge">Vikrant Talbhoge</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               

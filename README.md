@@ -63,5 +63,3 @@ Hi there! I'm **Vikrant Talbhoge**, a passionate developer, AI enthusiast, and c
 </p>
 
 ### LinkedIn
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-              
